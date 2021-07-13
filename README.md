@@ -2,4 +2,6 @@
 
 ### Python Chatbot with nltk
 
-> Currently no AI integrations
+> Currently no ML integrations. 
+>
+> Such a dumb app innit?
